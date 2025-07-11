@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nicolasa Esquina</h1>
-<h3 align="center">Senior Developer de Guatemala</h3>
+<h3 align="center"> Developer de Guatemala</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
